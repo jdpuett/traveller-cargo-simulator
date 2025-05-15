@@ -1,0 +1,188 @@
+{
+    "cargo_types": {
+        "Agricultural Products": {
+            "mass": [
+                5,
+                200
+            ],
+            "value": [
+                500,
+                2000
+            ]
+        },
+        "Refined Metals": {
+            "mass": [
+                10,
+                100
+            ],
+            "value": [
+                2000,
+                8000
+            ]
+        },
+        "Luxury Goods": {
+            "mass": [
+                1,
+                20
+            ],
+            "value": [
+                10000,
+                50000
+            ]
+        },
+        "Medical Supplies": {
+            "mass": [
+                2,
+                30
+            ],
+            "value": [
+                5000,
+                15000
+            ]
+        },
+        "Industrial Equipment": {
+            "mass": [
+                20,
+                150
+            ],
+            "value": [
+                3000,
+                12000
+            ]
+        },
+        "Consumer Electronics": {
+            "mass": [
+                5,
+                50
+            ],
+            "value": [
+                4000,
+                12000
+            ]
+        },
+        "Processed Food": {
+            "mass": [
+                10,
+                100
+            ],
+            "value": [
+                800,
+                2500
+            ]
+        },
+        "Textiles": {
+            "mass": [
+                5,
+                60
+            ],
+            "value": [
+                1000,
+                3000
+            ]
+        },
+        "Construction Materials": {
+            "mass": [
+                50,
+                300
+            ],
+            "value": [
+                600,
+                2000
+            ]
+        },
+        "Pharmaceuticals": {
+            "mass": [
+                1,
+                15
+            ],
+            "value": [
+                20000,
+                80000
+            ]
+        },
+        "Hazardous Materials": {
+            "mass": [
+                10,
+                80
+            ],
+            "value": [
+                3000,
+                15000
+            ]
+        },
+        "Research Equipment": {
+            "mass": [
+                1,
+                10
+            ],
+            "value": [
+                25000,
+                100000
+            ]
+        }
+    },
+    "shipping_companies": [
+        "Interstellar Logistics",
+        "Orion Freight Ltd.",
+        "Nova Express",
+        "Stellar Shipping Co.",
+        "Artemis Cargo Systems",
+        "Cygnus Transport",
+        "Phoenix Carriers",
+        "Meridian Trade Alliance",
+        "Eclipse Haulers",
+        "Vega Commercial Lines",
+        "Antares Shipping Guild",
+        "Frontier Movers",
+        "Imperial Haulage",
+        "Zhodani Consulate Shipping",
+        "Solomani Transport"
+    ],
+    "destinations": [
+        "Regina",
+        "Mora",
+        "Terra",
+        "Vland",
+        "Deneb",
+        "Zhodane",
+        "Sylea",
+        "Corridor",
+        "Trojan Reach",
+        "Spinward Marches",
+        "Karin",
+        "Diaspora",
+        "Terran",
+        "Gateway",
+        "Far Frontiers",
+        "Hinterworlds",
+        "Solomani Rim",
+        "Alpha Centauri",
+        "Riftspan Reaches",
+        "Empty Quarter",
+        "Ley Sector",
+        "Magyar",
+        "Verge",
+        "Foreven",
+        "Beyond",
+        "Depot"
+    ],
+    "simulation_settings": {
+        "initial_cargo_listings": 15,
+        "new_cargo_per_refresh": [
+            3,
+            8
+        ],
+        "player_starting_credits": 10000,
+        "cargo_deadline_range_weeks": [
+            2,
+            6
+        ],
+        "cargo_acceptance_thresholds": {
+            "high_chance": 0.8,
+            "medium_chance": 0.6
+        },
+        "high_win_chance": 0.7,
+        "medium_win_chance": 0.4,
+        "low_win_chance": 0.2
+    }
+}
